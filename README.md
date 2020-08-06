@@ -1,6 +1,6 @@
 # Fractal-Explorer
 
-This is my first ever App, coded together with a classmate. (A lot of spahetti code)
+This is my first ever App, coded together with a classmate in Python. (A lot of spahetti code)
 
 To start click on "ClicktoStart.py"
 
