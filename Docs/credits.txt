@@ -1,0 +1,81 @@
+Creative Alpha Grahics - Fractal Explorer 
+
+
+
+Project leader - Mila
+
+Project Member - Ke
+
+Project Member - Sandesh
+
+Project Member - Vanh
+
+
+General planning - All
+
+Weekly progress update - Mila&Sandesh
+
+
+Frontpage design - Mila
+
+Credit page design - Ke
+
+Explorer layout - Mila
+
+Explorer design - Ke
+
+Button design - Ke
+
+Animation - Ke
+
+Error catching - Sandesh
+
+
+Curlicue Fractal drawing - Vanh
+
+Continuous drawing - Vanh
+
+Parallel drawing - Vanh
+
+Splitscreen - Ke
+
+Recursive implementation- Vanh
+
+Fractal tracker - Vanh
+
+Fractal center calculator - Ke
+
+Fractal locater - Ke
+
+Fractal rotation - Vanh
+
+Canvas zoom&pan - Vanh
+
+Curlicue generator - Ke
+
+
+Temperature calculation - Ke
+
+Convex outline - Ke
+
+Concave outline - Vanh
+
+
+Sierpenski triangle drawing - Vanh
+
+Pythagoras tree drawing - Vanh
+
+Pythagoras generator - Ke
+
+
+Matrix manipulations - Vanh
+
+3D display - Ke
+
+Hovertext - Ke
+
+Color gradient - Ke
+
+Warning box - Ke
+
+Custom artwork - Mila
