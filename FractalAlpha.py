@@ -254,7 +254,7 @@ class MainWindow(Tk):
         self.animate(0, images, self.animation)
 
         images2 = list()
-        for i in range(1, 361, 1):
+        for i in range(1, 60, 1):
             number = "Artwork\Spiraltriangle" + "\\" + str(i) + ".png"
             images2.append(PhotoImage(file=number))
         self.animation2 = self.canvasmini.create_image((180, 60), image=images2[0])
